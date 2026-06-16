@@ -1,0 +1,670 @@
+{
+  "meta": {
+    "name": "Agent Frameworks & Orchestration Almanac Roster",
+    "version": "2026-06",
+    "generated_at": "2026-06-16T22:46:00Z",
+    "total_tools": 82,
+    "parent_almanac": "ArdurAI/ai-infrastructure-almanac",
+    "research_method": "8-facet wide exploration, 112+ independent searches, 8 parallel agents"
+  },
+  "category": "agent-frameworks",
+  "category_name": "Agent Frameworks & Orchestration",
+  "tools": [
+    {
+      "name": "LangGraph",
+      "type": "Orchestration",
+      "license": "MIT",
+      "language": "Python, JS",
+      "tier": "A",
+      "notes": "44% prod adoption; graph-based state machines; checkpointing; HITL"
+    },
+    {
+      "name": "CrewAI",
+      "type": "Multi-agent",
+      "license": "MIT",
+      "language": "Python",
+      "tier": "A",
+      "notes": "49.2K+ stars; 63% Fortune 500 claim; role-based crews; MCP support"
+    },
+    {
+      "name": "Mastra",
+      "type": "Framework",
+      "license": "Apache-2.0",
+      "language": "TypeScript",
+      "tier": "A",
+      "notes": "24.6K+ stars; 300K+ weekly npm; TS-native; 3,300+ models, 94 providers"
+    },
+    {
+      "name": "Pydantic AI",
+      "type": "Framework",
+      "license": "Open",
+      "language": "Python",
+      "tier": "A",
+      "notes": "8.4K+ stars; type-safe; DI; FastAPI ergonomics; 5 output modes"
+    },
+    {
+      "name": "Claude Agent SDK",
+      "type": "SDK",
+      "license": "Open SDK",
+      "language": "Python, TS",
+      "tier": "A",
+      "notes": "Fastest-growing; Anthropic-native; MCP; skills; subagents"
+    },
+    {
+      "name": "OpenAI Agents SDK",
+      "type": "SDK",
+      "license": "MIT",
+      "language": "Python",
+      "tier": "A",
+      "notes": "22.2K+ stars; lightweight; explicit handoffs; built-in tracing"
+    },
+    {
+      "name": "Google ADK",
+      "type": "Framework",
+      "license": "Apache-2.0",
+      "language": "Python, TS, Go, Java",
+      "tier": "A",
+      "notes": "15.6K+ stars; hierarchical agent tree; A2A + multimodal; Vertex AI"
+    },
+    {
+      "name": "Microsoft Agent Framework",
+      "type": "Unified SDK",
+      "license": "MIT",
+      "language": "Python, .NET",
+      "tier": "A",
+      "notes": "9.6K+ stars; GA April 2026; merges AutoGen + Semantic Kernel; MCP + A2A native"
+    },
+    {
+      "name": "Agno",
+      "type": "Full-stack",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tier": "A",
+      "notes": "39.7K+ stars; multi-agent + memory; AgentOS runtime; multimodal"
+    },
+    {
+      "name": "LlamaIndex",
+      "type": "RAG/Agent",
+      "license": "MIT",
+      "language": "Python, TS",
+      "tier": "A",
+      "notes": "40.9K+ stars; data-first; Router Agents; retrieval-centric"
+    },
+    {
+      "name": "LangChain",
+      "type": "Framework",
+      "license": "MIT",
+      "language": "Python, JS",
+      "tier": "A",
+      "notes": "134K+ stars; 1000+ connectors; integration layer; increasingly tooling"
+    },
+    {
+      "name": "Deep Agents",
+      "type": "Agent Harness",
+      "license": "MIT",
+      "language": "Python",
+      "tier": "A",
+      "notes": "LangChain ecosystem; long-running task harness; planning + context mgmt"
+    },
+    {
+      "name": "AutoGen / AG2",
+      "type": "Multi-agent",
+      "license": "MIT",
+      "language": "Python, .NET",
+      "tier": "A",
+      "notes": "43.1K+ stars; AutoGen v0.7 = research; AG2 = community fork; MAF = successor"
+    },
+    {
+      "name": "smolagents",
+      "type": "Minimalist",
+      "license": "Open",
+      "language": "Python",
+      "tier": "A",
+      "notes": "HuggingFace; ~1K LOC core; CodeAgent writes/executes Python; GAIA 44.2%"
+    },
+    {
+      "name": "Haystack",
+      "type": "Pipeline",
+      "license": "Open",
+      "language": "Python",
+      "tier": "A",
+      "notes": "18K+ stars; modular retrievers, routers, evaluators; enterprise doc intelligence"
+    },
+    {
+      "name": "Letta",
+      "type": "Stateful Agent",
+      "license": "Open",
+      "language": "Python, TS",
+      "tier": "A",
+      "notes": "22.3K+ stars; memory-rich agents; state/session management"
+    },
+    {
+      "name": "DSPy",
+      "type": "Programming",
+      "license": "Open",
+      "language": "Python",
+      "tier": "A",
+      "notes": "Stanford; programming (not prompting) LM systems; prompt + weight optimization"
+    },
+    {
+      "name": "Vercel AI SDK",
+      "type": "SDK",
+      "license": "Open",
+      "language": "TS/JS",
+      "tier": "A",
+      "notes": "Low-level primitives; Mastra builds on top; model routing + streaming"
+    },
+    {
+      "name": "Genkit",
+      "type": "Framework",
+      "license": "Open",
+      "language": "Java, TS",
+      "tier": "B",
+      "notes": "Firebase/Google; Dev UI with trace explorer; typed flows; OTEL-compatible"
+    },
+    {
+      "name": "Spring AI",
+      "type": "Framework",
+      "license": "Apache-2.0",
+      "language": "Java",
+      "tier": "B",
+      "notes": "Spring-native; Advisors API; auto-configuration; Actuator observability"
+    },
+    {
+      "name": "LangChain4j",
+      "type": "Framework",
+      "license": "Open",
+      "language": "Java",
+      "tier": "B",
+      "notes": "30+ vector stores; 20+ providers; Quarkus/Micronaut; AI Services pattern"
+    },
+    {
+      "name": "Embabel",
+      "type": "Framework",
+      "license": "Open",
+      "language": "Java/Kotlin",
+      "tier": "B",
+      "notes": "Rod Johnson (Spring creator); GOAP + Utility AI planning; deterministic; beta"
+    },
+    {
+      "name": "Koog",
+      "type": "Framework",
+      "license": "Open",
+      "language": "Kotlin",
+      "tier": "B",
+      "notes": "JetBrains; graph workflows; checkpointing; Kotlin Multiplatform; history compression"
+    },
+    {
+      "name": "AgentScope Java",
+      "type": "Multi-agent",
+      "license": "Open",
+      "language": "Java",
+      "tier": "B",
+      "notes": "Alibaba; native A2A protocol; Hook system for HITL; Qwen-first"
+    },
+    {
+      "name": "Semantic Kernel",
+      "type": "SDK",
+      "license": "MIT",
+      "language": "C#, Python, Java",
+      "tier": "B",
+      "notes": "Pre-MAF; plugin/planner model; .NET enterprise; KPMG/Fujitsu production"
+    },
+    {
+      "name": "Rig",
+      "type": "LLM Lib",
+      "license": "Apache-2.0",
+      "language": "Rust",
+      "tier": "B",
+      "notes": "~5K stars; trait-first; composable; CompletionModel + Tool traits"
+    },
+    {
+      "name": "AutoAgents",
+      "type": "Multi-agent",
+      "license": "MIT",
+      "language": "Rust",
+      "tier": "B",
+      "notes": "~2K stars; Actor model (Ractor); WASM sandbox; derive macros"
+    },
+    {
+      "name": "OpenFANG",
+      "type": "Agent OS",
+      "license": "Apache-2.0",
+      "language": "Rust",
+      "tier": "B",
+      "notes": "~8K stars; 137K LOC; kernel/runtime/memory/channels; RBAC; MCP + A2A"
+    },
+    {
+      "name": "kagent",
+      "type": "Framework",
+      "license": "Open",
+      "language": "Go",
+      "tier": "B",
+      "notes": "Google-backed; Kubernetes-native; 45ms latency"
+    },
+    {
+      "name": "Dify",
+      "type": "Low-code",
+      "license": "Apache-like",
+      "language": "Python",
+      "tier": "A",
+      "notes": "142K+ stars; workflow + RAG + agent; prompt IDE; self-hostable"
+    },
+    {
+      "name": "Flowise",
+      "type": "Low-code",
+      "license": "Apache-2.0",
+      "language": "TS",
+      "tier": "A",
+      "notes": "54.9K+ stars; LangChain DAG on canvas; LangGraph nodes v2.0"
+    },
+    {
+      "name": "n8n",
+      "type": "Automation",
+      "license": "Fair-code",
+      "language": "TS",
+      "tier": "A",
+      "notes": "188K+ stars; 400+ integrations; AI Agent node; fair-code (not OSI)"
+    },
+    {
+      "name": "Coze",
+      "type": "No-code",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "A",
+      "notes": "ByteDance; 100K+ bots; zero-code Bot builder; Doubao model"
+    },
+    {
+      "name": "RAGflow",
+      "type": "RAG Engine",
+      "license": "Open",
+      "language": "Python",
+      "tier": "B",
+      "notes": "80.7K+ stars; deep document understanding; complex PDF/table parsing"
+    },
+    {
+      "name": "Botpress",
+      "type": "Conversational",
+      "license": "Open",
+      "language": "TS",
+      "tier": "B",
+      "notes": "Open-source dialog + LLM; modular; community extensible"
+    },
+    {
+      "name": "Rasa",
+      "type": "Conversational",
+      "license": "Open",
+      "language": "Python",
+      "tier": "B",
+      "notes": "20K+ stars; 25M+ downloads; open-source + Rasa Studio"
+    },
+    {
+      "name": "Voiceflow",
+      "type": "No-code",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "B",
+      "notes": "Visual agent builder; voice + chat; enterprise teams"
+    },
+    {
+      "name": "Relevance AI",
+      "type": "No-code",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "B",
+      "notes": "Drag-and-drop; zero coding; non-technical users"
+    },
+    {
+      "name": "Langflow",
+      "type": "Visual",
+      "license": "Open",
+      "language": "Python",
+      "tier": "B",
+      "notes": "54.9K+ stars; visual LangChain builder; node-based; Git versionable"
+    },
+    {
+      "name": "Salesforce Agentforce",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "A",
+      "notes": "CRM-native; $2/conversation; Atlas Reasoning Engine; multi-agent"
+    },
+    {
+      "name": "ServiceNow Now Assist",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "A",
+      "notes": "ITSM-native; CMDB grounding; orchestrator model"
+    },
+    {
+      "name": "Microsoft Copilot Studio",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "A",
+      "notes": "M365-integrated; low-code; credit model; Power Platform"
+    },
+    {
+      "name": "UiPath Agentic Automation",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "RPA-native; visual orchestration + conversational UI"
+    },
+    {
+      "name": "IBM watsonx Orchestrate",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "AI orchestration; enterprise governance; hybrid cloud"
+    },
+    {
+      "name": "Google Vertex AI Agent Builder",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "A",
+      "notes": "Agent Studio (no-code) + ADK (code); Agent Runtime; BYO-MCP"
+    },
+    {
+      "name": "Adobe AEP Agent Orchestrator",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "Marketing; personalization agents; real-time data"
+    },
+    {
+      "name": "Airia",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "Award 2026; unified security + orchestration + governance"
+    },
+    {
+      "name": "Chapter Enterprise",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "Model-agnostic; SmartGuard; legacy on-premise + SaaS; air-gapped"
+    },
+    {
+      "name": "Domo Agent Catalyst",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "BI-native; governed datasets; multiple LLM choice; HITL"
+    },
+    {
+      "name": "Harness AI Agent Framework",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "SDLC-wide; 30-50% productivity gain; AIDA chat; MCP + AIDA"
+    },
+    {
+      "name": "ArkClaw",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "ByteDance; Volcano Engine; enterprise process automation"
+    },
+    {
+      "name": "MoltBook",
+      "type": "Open Templates",
+      "license": "Apache-2.0",
+      "language": "Open",
+      "tier": "B",
+      "notes": "ByteDance; 15K+ stars; OpenClaw-compatible; Skill library"
+    },
+    {
+      "name": "QwenPaw",
+      "type": "Agent",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "Alibaba; e-commerce/service automation; agent store"
+    },
+    {
+      "name": "JVSClaw",
+      "type": "Low-code",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "C",
+      "notes": "Alibaba; low-code AI agent platform"
+    },
+    {
+      "name": "QoderWork",
+      "type": "Coding Agent",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "C",
+      "notes": "Alibaba; AI programming workflow agent"
+    },
+    {
+      "name": "WorkBuddy",
+      "type": "Enterprise",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "C",
+      "notes": "Tencent; enterprise collaboration AI agent"
+    },
+    {
+      "name": "CodeBuddy",
+      "type": "Coding",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "C",
+      "notes": "Tencent; AI programming assistant (2026 new)"
+    },
+    {
+      "name": "红手指Operator",
+      "type": "Browser Agent",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "C",
+      "notes": "Baidu; browser automation; operator-style task execution"
+    },
+    {
+      "name": "文心智能体平台",
+      "type": "Platform",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "Baidu; 100K+ agents; vertical agents (legal, medical); Wenxin 5.0"
+    },
+    {
+      "name": "智谱 AutoClaw",
+      "type": "Framework",
+      "license": "Open (GLM)",
+      "language": "Python",
+      "tier": "B",
+      "notes": "Zhipu; GLM-4; 256K context; task planning; self-correction"
+    },
+    {
+      "name": "Kimi Claw",
+      "type": "Long-context",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "Moonshot; 2M-character context; legal/academic/financial"
+    },
+    {
+      "name": "AstronClaw",
+      "type": "Voice Agent",
+      "license": "Proprietary",
+      "language": "Edge/Cloud",
+      "tier": "B",
+      "notes": "iFlytek; 98%+ ASR; dialect support; streaming"
+    },
+    {
+      "name": "MaxClaw",
+      "type": "Multi-modal",
+      "license": "Proprietary",
+      "language": "Cloud",
+      "tier": "B",
+      "notes": "MiniMax; MoE architecture; text/voice/video/image"
+    },
+    {
+      "name": "OpenClaw",
+      "type": "Self-hosted",
+      "license": "MIT",
+      "language": "Python",
+      "tier": "B",
+      "notes": "210K+ stars; self-hosted; 50+ native integrations; Docker-first"
+    },
+    {
+      "name": "Hermes Agent Framework",
+      "type": "Framework",
+      "license": "Open",
+      "language": "Python",
+      "tier": "B",
+      "notes": "106K+ stars; Workspace + Mission Control; Obsidian memory; 24/7 scheduled"
+    },
+    {
+      "name": "ROSA",
+      "type": "Robotics",
+      "license": "Open",
+      "language": "Python",
+      "tier": "C",
+      "notes": "ROS-based LLM agent; LangChain + ReAct; JPL NeBula-Spot"
+    },
+    {
+      "name": "RAI",
+      "type": "Robotics",
+      "license": "Open",
+      "language": "Python",
+      "tier": "C",
+      "notes": "Multi-agent embodied; ROS2; perception/planner/controller"
+    },
+    {
+      "name": "BUMBLE",
+      "type": "Robotics",
+      "license": "Open",
+      "language": "Python",
+      "tier": "C",
+      "notes": "Building-wide mobile manipulation; VLM-based; skill library"
+    },
+    {
+      "name": "LeRobot",
+      "type": "Robotics",
+      "license": "Open",
+      "language": "Python",
+      "tier": "C",
+      "notes": "HuggingFace; OpenVLA; 7B open-source; data collection + policy training"
+    },
+    {
+      "name": "TARS",
+      "type": "Embodied AI",
+      "license": "Proprietary",
+      "language": "Hardware",
+      "tier": "C",
+      "notes": "AWE 3.0 foundation model; DexHand; industrial robots"
+    },
+    {
+      "name": "MetaGPT",
+      "type": "Multi-agent",
+      "license": "Open",
+      "language": "Python",
+      "tier": "C",
+      "notes": "Software company simulation; roles: PM/tech-lead/engineer; ICLR 2024 oral"
+    },
+    {
+      "name": "Instructor",
+      "type": "Structured Output",
+      "license": "Open",
+      "language": "Python",
+      "tier": "C",
+      "notes": "11K+ stars; patching LLM clients for guaranteed Pydantic output"
+    },
+    {
+      "name": "Cognosys",
+      "type": "Agent Builder",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "C",
+      "notes": "Web-based agent builder; task automation"
+    },
+    {
+      "name": "OrchestrAI",
+      "type": "AI OS",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "C",
+      "notes": "Non-technical ops; modular capacity; auto-learning from feedback"
+    },
+    {
+      "name": "EchoLeads",
+      "type": "Voice Sales",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "C",
+      "notes": "Startup sales voice AI; 72h deploy; Salesforce/HubSpot"
+    },
+    {
+      "name": "Retell AI",
+      "type": "Voice",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "C",
+      "notes": "Custom voice AI; streaming APIs; technical teams"
+    },
+    {
+      "name": "Bland AI",
+      "type": "Voice",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "C",
+      "notes": "High-volume outbound; webhook CRM"
+    },
+    {
+      "name": "Synthflow",
+      "type": "Voice",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "C",
+      "notes": "No-code voice; 30-min setup; non-technical; $29-450/mo"
+    },
+    {
+      "name": "Vapi",
+      "type": "Voice",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "C",
+      "notes": "Developer API; max customization; engineering-led"
+    },
+    {
+      "name": "SuperAGI",
+      "type": "Autonomous",
+      "license": "Open",
+      "language": "Python",
+      "tier": "C",
+      "notes": "Marketplace of tools/skills; monitoring dashboards; self-improving"
+    },
+    {
+      "name": "Kore.ai",
+      "type": "Conversational",
+      "license": "Proprietary",
+      "language": "SaaS",
+      "tier": "C",
+      "notes": "Healthcare/finance/retail; NLP + automation; HIPAA compliance"
+    },
+    {
+      "name": "Appsmith",
+      "type": "Agent Builder",
+      "license": "Open",
+      "language": "SaaS",
+      "tier": "C",
+      "notes": "Custom AI agents for sales/support/people management"
+    }
+  ]
+}
