@@ -1,0 +1,745 @@
+meta:
+  repo: ArdurAI/ai-agent-framework-almanac
+  category: Agent Frameworks
+  total_tools: 82
+  generated_at: '2026-07-03T10:51:28.359246'
+  schema_version: 2.0.0
+tools:
+- name: Adobe AEP Agent Orchestrator
+  id: adobe-aep-agent-orchestrator
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Marketing; personalization agents; real-time data
+  file: adobe-aep-agent-orchestrator.md
+- name: AgentScope Java
+  id: agentscope-java
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Alibaba; native A2A protocol; Hook system for HITL; Qwen-first
+  file: agentscope-java.md
+- name: Agno
+  id: agno
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/agno-agi/agno
+  description: 39.7K+ stars; multi-agent + memory; AgentOS runtime; multimodal
+  file: agno.md
+- name: Airia
+  id: airia
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Award 2026; unified security + orchestration + governance
+  file: airia.md
+- name: Appsmith
+  id: appsmith
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Custom AI agents for sales/support/people management
+  file: appsmith.md
+- name: ArkClaw
+  id: arkclaw
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: ByteDance; Volcano Engine; enterprise process automation
+  file: arkclaw.md
+- name: AstronClaw
+  id: astronclaw
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: iFlytek; 98%+ ASR; dialect support; streaming
+  file: astronclaw.md
+- name: AutoAgents
+  id: autoagents
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: 2K
+  github: null
+  description: ~2K stars; Actor model (Ractor); WASM sandbox; derive macros
+  file: autoagents.md
+- name: AutoGen / AG2
+  id: autogen-ag2
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/microsoft/autogen
+  description: 43.1K+ stars; AutoGen v0.7 = research; AG2 = community fork; MAF = successor
+  file: autogen-ag2.md
+- name: Bland AI
+  id: bland-ai
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: High-volume outbound; webhook CRM
+  file: bland-ai.md
+- name: Botpress
+  id: botpress
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/botpress/botpress
+  description: Open-source dialog + LLM; modular; community extensible
+  file: botpress.md
+- name: BUMBLE
+  id: bumble
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Building-wide mobile manipulation; VLM-based; skill library
+  file: bumble.md
+- name: Chapter Enterprise
+  id: chapter-enterprise
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Model-agnostic; SmartGuard; legacy on-premise + SaaS; air-gapped
+  file: chapter-enterprise.md
+- name: Claude Agent SDK
+  id: claude-agent-sdk
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/anthropics/claude-agent-sdk
+  description: Fastest-growing; Anthropic-native; MCP; skills; subagents
+  file: claude-agent-sdk.md
+- name: CodeBuddy
+  id: codebuddy
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Tencent; AI programming assistant (2026 new)
+  file: codebuddy.md
+- name: Cognosys
+  id: cognosys
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Web-based agent builder; task automation
+  file: cognosys.md
+- name: Coze
+  id: coze
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: ByteDance; 100K+ bots; zero-code Bot builder; Doubao model
+  file: coze.md
+- name: CrewAI
+  id: crewai
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/crewAIInc/crewAI
+  description: 49.2K+ stars; 63% Fortune 500 claim; role-based crews; MCP support
+  file: crewai.md
+- name: Deep Agents
+  id: deep-agents
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/langchain-ai/deep-agents
+  description: LangChain ecosystem; long-running task harness; planning + context mgmt
+  file: deep-agents.md
+- name: Dify
+  id: dify
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/langgenius/dify
+  description: 142K+ stars; workflow + RAG + agent; prompt IDE; self-hostable
+  file: dify.md
+- name: Domo Agent Catalyst
+  id: domo-agent-catalyst
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: BI-native; governed datasets; multiple LLM choice; HITL
+  file: domo-agent-catalyst.md
+- name: DSPy
+  id: dspy
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/stanfordnlp/dspy
+  description: Stanford; programming (not prompting) LM systems; prompt + weight optimization
+  file: dspy.md
+- name: EchoLeads
+  id: echoleads
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Startup sales voice AI; 72h deploy; Salesforce/HubSpot
+  file: echoleads.md
+- name: Embabel
+  id: embabel
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/embabel/embabel-agent
+  description: Rod Johnson (Spring creator); GOAP + Utility AI planning; deterministic; beta
+  file: embabel.md
+- name: Flowise
+  id: flowise
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/FlowiseAI/Flowise
+  description: 54.9K+ stars; LangChain DAG on canvas; LangGraph nodes v2.0
+  file: flowise.md
+- name: Genkit
+  id: genkit
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/firebase/genkit
+  description: Firebase/Google; Dev UI with trace explorer; typed flows; OTEL-compatible
+  file: genkit.md
+- name: Google ADK
+  id: google-adk
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/google/adk-python
+  description: 15.6K+ stars; hierarchical agent tree; A2A + multimodal; Vertex AI
+  file: google-adk.md
+- name: Google Vertex AI Agent Builder
+  id: google-vertex-ai-agent-builder
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Agent Studio (no-code) + ADK (code); Agent Runtime; BYO-MCP
+  file: google-vertex-ai-agent-builder.md
+- name: Harness AI Agent Framework
+  id: harness-ai-agent-framework
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: SDLC-wide; 30-50% productivity gain; AIDA chat; MCP + AIDA
+  file: harness-ai-agent-framework.md
+- name: Haystack
+  id: haystack
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/deepset-ai/haystack
+  description: 18K+ stars; modular retrievers, routers, evaluators; enterprise doc intelligence
+  file: haystack.md
+- name: Hermes Agent Framework
+  id: hermes-agent-framework
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: 106K+ stars; Workspace + Mission Control; Obsidian memory; 24/7 scheduled
+  file: hermes-agent-framework.md
+- name: IBM watsonx Orchestrate
+  id: ibm-watsonx-orchestrate
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: AI orchestration; enterprise governance; hybrid cloud
+  file: ibm-watsonx-orchestrate.md
+- name: Instructor
+  id: instructor
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/jxnl/instructor
+  description: 11K+ stars; patching LLM clients for guaranteed Pydantic output
+  file: instructor.md
+- name: JVSClaw
+  id: jvsclaw
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Alibaba; low-code AI agent platform
+  file: jvsclaw.md
+- name: kagent
+  id: kagent
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Google-backed; Kubernetes-native; 45ms latency
+  file: kagent.md
+- name: Kimi Claw
+  id: kimi-claw
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Moonshot; 2M-character context; legal/academic/financial
+  file: kimi-claw.md
+- name: Koog
+  id: koog
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: JetBrains; graph workflows; checkpointing; Kotlin Multiplatform; history compression
+  file: koog.md
+- name: Kore.ai
+  id: koreai
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Healthcare/finance/retail; NLP + automation; HIPAA compliance
+  file: koreai.md
+- name: LangChain
+  id: langchain
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/langchain-ai/langchain
+  description: 134K+ stars; 1000+ connectors; integration layer; increasingly tooling
+  file: langchain.md
+- name: LangChain4j
+  id: langchain4j
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/langchain4j/langchain4j
+  description: 30+ vector stores; 20+ providers; Quarkus/Micronaut; AI Services pattern
+  file: langchain4j.md
+- name: Langflow
+  id: langflow
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/langflow-ai/langflow
+  description: 54.9K+ stars; visual LangChain builder; node-based; Git versionable
+  file: langflow.md
+- name: LangGraph
+  id: langgraph
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/langchain-ai/langgraph
+  description: 44% prod adoption; graph-based state machines; checkpointing; HITL
+  file: langgraph.md
+- name: LeRobot
+  id: lerobot
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: HuggingFace; OpenVLA; 7B open-source; data collection + policy training
+  file: lerobot.md
+- name: Letta
+  id: letta
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/letta-ai/letta
+  description: 22.3K+ stars; memory-rich agents; state/session management
+  file: letta.md
+- name: LlamaIndex
+  id: llamaindex
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/run-llama/llama_index
+  description: 40.9K+ stars; data-first; Router Agents; retrieval-centric
+  file: llamaindex.md
+- name: Mastra
+  id: mastra
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/mastra-ai/mastra
+  description: 24.6K+ stars; 300K+ weekly npm; TS-native; 3,300+ models, 94 providers
+  file: mastra.md
+- name: MaxClaw
+  id: maxclaw
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: MiniMax; MoE architecture; text/voice/video/image
+  file: maxclaw.md
+- name: MetaGPT
+  id: metagpt
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/geekan/MetaGPT
+  description: 'Software company simulation; roles: PM/tech-lead/engineer; ICLR 2024 oral'
+  file: metagpt.md
+- name: Microsoft Agent Framework
+  id: microsoft-agent-framework
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/microsoft/agent-framework
+  description: 9.6K+ stars; GA April 2026; merges AutoGen + Semantic Kernel; MCP + A2A native
+  file: microsoft-agent-framework.md
+- name: Microsoft Copilot Studio
+  id: microsoft-copilot-studio
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: M365-integrated; low-code; credit model; Power Platform
+  file: microsoft-copilot-studio.md
+- name: MoltBook
+  id: moltbook
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: ByteDance; 15K+ stars; OpenClaw-compatible; Skill library
+  file: moltbook.md
+- name: n8n
+  id: n8n
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/n8n-io/n8n
+  description: 188K+ stars; 400+ integrations; AI Agent node; fair-code (not OSI)
+  file: n8n.md
+- name: OpenAI Agents SDK
+  id: openai-agents-sdk
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/openai/openai-agents-python
+  description: 22.2K+ stars; lightweight; explicit handoffs; built-in tracing
+  file: openai-agents-sdk.md
+- name: OpenClaw
+  id: openclaw
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: 210K+ stars; self-hosted; 50+ native integrations; Docker-first
+  file: openclaw.md
+- name: OpenFANG
+  id: openfang
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: 8K
+  github: null
+  description: ~8K stars; 137K LOC; kernel/runtime/memory/channels; RBAC; MCP + A2A
+  file: openfang.md
+- name: OrchestrAI
+  id: orchestrai
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Non-technical ops; modular capacity; auto-learning from feedback
+  file: orchestrai.md
+- name: Pydantic AI
+  id: pydantic-ai
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/pydantic/pydantic-ai
+  description: 8.4K+ stars; type-safe; DI; FastAPI ergonomics; 5 output modes
+  file: pydantic-ai.md
+- name: QoderWork
+  id: qoderwork
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Alibaba; AI programming workflow agent
+  file: qoderwork.md
+- name: QwenPaw
+  id: qwenpaw
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Alibaba; e-commerce/service automation; agent store
+  file: qwenpaw.md
+- name: RAGflow
+  id: ragflow
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/infiniflow/ragflow
+  description: 80.7K+ stars; deep document understanding; complex PDF/table parsing
+  file: ragflow.md
+- name: RAI
+  id: rai
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Multi-agent embodied; ROS2; perception/planner/controller
+  file: rai.md
+- name: Rasa
+  id: rasa
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/RasaHQ/rasa
+  description: 20K+ stars; 25M+ downloads; open-source + Rasa Studio
+  file: rasa.md
+- name: Relevance AI
+  id: relevance-ai
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Drag-and-drop; zero coding; non-technical users
+  file: relevance-ai.md
+- name: Retell AI
+  id: retell-ai
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Custom voice AI; streaming APIs; technical teams
+  file: retell-ai.md
+- name: Rig
+  id: rig
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: 5K
+  github: null
+  description: ~5K stars; trait-first; composable; CompletionModel + Tool traits
+  file: rig.md
+- name: ROSA
+  id: rosa
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: ROS-based LLM agent; LangChain + ReAct; JPL NeBula-Spot
+  file: rosa.md
+- name: Salesforce Agentforce
+  id: salesforce-agentforce
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: CRM-native; $2/conversation; Atlas Reasoning Engine; multi-agent
+  file: salesforce-agentforce.md
+- name: Semantic Kernel
+  id: semantic-kernel
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/microsoft/semantic-kernel
+  description: Pre-MAF; plugin/planner model; .NET enterprise; KPMG/Fujitsu production
+  file: semantic-kernel.md
+- name: ServiceNow Now Assist
+  id: servicenow-now-assist
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: ITSM-native; CMDB grounding; orchestrator model
+  file: servicenow-now-assist.md
+- name: smolagents
+  id: smolagents
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/huggingface/smolagents
+  description: HuggingFace; ~1K LOC core; CodeAgent writes/executes Python; GAIA 44.2%
+  file: smolagents.md
+- name: Spring AI
+  id: spring-ai
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/spring-projects/spring-ai
+  description: Spring-native; Advisors API; auto-configuration; Actuator observability
+  file: spring-ai.md
+- name: SuperAGI
+  id: superagi
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/TransformerOptimus/SuperAGI
+  description: Marketplace of tools/skills; monitoring dashboards; self-improving
+  file: superagi.md
+- name: Synthflow
+  id: synthflow
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: No-code voice; 30-min setup; non-technical; $29-450/mo
+  file: synthflow.md
+- name: TARS
+  id: tars
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: AWE 3.0 foundation model; DexHand; industrial robots
+  file: tars.md
+- name: UiPath Agentic Automation
+  id: uipath-agentic-automation
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: RPA-native; visual orchestration + conversational UI
+  file: uipath-agentic-automation.md
+- name: Vapi
+  id: vapi
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Developer API; max customization; engineering-led
+  file: vapi.md
+- name: Vercel AI SDK
+  id: vercel-ai-sdk
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: https://github.com/vercel/ai
+  description: Low-level primitives; Mastra builds on top; model routing + streaming
+  file: vercel-ai-sdk.md
+- name: Voiceflow
+  id: voiceflow
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Visual agent builder; voice + chat; enterprise teams
+  file: voiceflow.md
+- name: WorkBuddy
+  id: workbuddy
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Tencent; enterprise collaboration AI agent
+  file: workbuddy.md
+- name: 文心智能体平台
+  id: 文心智能体平台
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Baidu; 100K+ agents; vertical agents (legal, medical); Wenxin 5.0
+  file: 文心智能体平台.md
+- name: 智谱 AutoClaw
+  id: 智谱-autoclaw
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Zhipu; GLM-4; 256K context; task planning; self-correction
+  file: 智谱-autoclaw.md
+- name: 红手指Operator
+  id: 红手指operator
+  tier: C
+  type: Unknown
+  license: Unknown
+  stars: null
+  github: null
+  description: Baidu; browser automation; operator-style task execution
+  file: 红手指operator.md
