@@ -1,5 +1,8 @@
 # Microsoft Agent Framework
 
+
+[![AI Protocols](https://img.shields.io/badge/Also_in-AI_Protocols-blue)](https://github.com/ArdurAI/ai-protocol-almanac) [![Infrastructure](https://img.shields.io/badge/Also_in-Infrastructure-blue)](https://github.com/ArdurAI/ai-infrastructure-almanac)
+
 | Attribute | Value |
 |-----------|-------|
 | Category | Agent Frameworks |

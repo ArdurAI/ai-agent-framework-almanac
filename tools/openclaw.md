@@ -1,5 +1,8 @@
 # OpenClaw
 
+
+[![AI Protocols](https://img.shields.io/badge/Also_in-AI_Protocols-blue)](https://github.com/ArdurAI/ai-protocol-almanac)
+
 | Attribute | Value |
 |-----------|-------|
 | Category | Agent Frameworks |

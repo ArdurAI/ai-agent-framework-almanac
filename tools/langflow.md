@@ -1,5 +1,8 @@
 # Langflow
 
+
+[![LLMOps](https://img.shields.io/badge/Also_in-LLMOps-blue)](https://github.com/ArdurAI/ai-llmops-almanac)
+
 | Attribute | Value |
 |-----------|-------|
 | Category | Agent Frameworks |

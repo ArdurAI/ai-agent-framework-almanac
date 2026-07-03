@@ -1,5 +1,8 @@
 # Google ADK
 
+
+[![Observability](https://img.shields.io/badge/Also_in-Observability-blue)](https://github.com/ArdurAI/ai-observability-almanac) [![Infrastructure](https://img.shields.io/badge/Also_in-Infrastructure-blue)](https://github.com/ArdurAI/ai-infrastructure-almanac)
+
 | Attribute | Value |
 |-----------|-------|
 | Category | Agent Frameworks |

@@ -1,5 +1,8 @@
 # DSPy
 
+
+[![LLMOps](https://img.shields.io/badge/Also_in-LLMOps-blue)](https://github.com/ArdurAI/ai-llmops-almanac) [![Infrastructure](https://img.shields.io/badge/Also_in-Infrastructure-blue)](https://github.com/ArdurAI/ai-infrastructure-almanac)
+
 | Attribute | Value |
 |-----------|-------|
 | Category | Agent Frameworks |
