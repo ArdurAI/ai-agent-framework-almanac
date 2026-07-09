@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-02 |
+| Last Updated | 2026-07-09 |
 
 > 49.2K+ stars; 63% Fortune 500 claim; role-based crews; MCP support
 
@@ -26,6 +26,10 @@ CrewAI is a multi-agent in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-09
+
+- **Latest release:** `1.15.2` (2026-07-08): adds dynamic latest-LLM discovery in the crew wizard, inline skill definitions, Flow Definition authoring support, templated Flow action inputs, and CEL/text helper improvements.
 
 ### 1. How Is This Tool Useful?
 

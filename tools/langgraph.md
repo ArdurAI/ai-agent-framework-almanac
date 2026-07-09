@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-02 |
+| Last Updated | 2026-07-09 |
 
 > 44% prod adoption; graph-based state machines; checkpointing; HITL
 
@@ -26,6 +26,10 @@ LangGraph is a orchestration in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-09
+
+- **Latest release:** `1.2.8` (2026-07-06): patch release fixing a delta-channel/updateState bug that could force a full snapshot on fresh threads, plus dependency maintenance including websocket updates.
 
 ### 1. How Is This Tool Useful?
 

@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-02 |
+| Last Updated | 2026-07-09 |
 
 > 22.2K+ stars; lightweight; explicit handoffs; built-in tracing
 
@@ -26,6 +26,10 @@ OpenAI Agents SDK is a sdk in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-09
+
+- **Latest release:** `v0.18.0` (2026-07-07): changes the RealtimeAgent default model to `gpt-realtime-2.1`, aligning the SDK with OpenAI’s newer realtime model baseline.
 
 ### 1. How Is This Tool Useful?
 

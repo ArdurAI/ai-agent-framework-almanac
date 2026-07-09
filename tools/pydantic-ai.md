@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-02 |
+| Last Updated | 2026-07-09 |
 
 > 8.4K+ stars; type-safe; DI; FastAPI ergonomics; 5 output modes
 
@@ -26,6 +26,10 @@ Pydantic AI is a framework in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-09
+
+- **Latest release:** `v2.7.0` (2026-07-09): adds `azure-responses:[model-id]` shorthand and xAI `grok-4.5` support; fixes boolean JSON Schema handling, HTTPX event-hook preservation, model overrides, and AlibabaProvider document input behavior.
 
 ### 1. How Is This Tool Useful?
 

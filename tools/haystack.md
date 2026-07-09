@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-02 |
+| Last Updated | 2026-07-09 |
 
 > 18K+ stars; modular retrievers, routers, evaluators; enterprise doc intelligence
 
@@ -26,6 +26,10 @@ Haystack is a pipeline in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-09
+
+- **Latest release:** `v2.31.0` (2026-07-08): begins slimming Haystack core ahead of 3.0 by migrating heavy or optional components into dedicated integration packages, reducing core dependency weight.
 
 ### 1. How Is This Tool Useful?
 

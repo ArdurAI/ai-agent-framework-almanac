@@ -11,7 +11,7 @@
 | Tier | B |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-02 |
+| Last Updated | 2026-07-09 |
 
 > Pre-MAF; plugin/planner model; .NET enterprise; KPMG/Fujitsu production
 
@@ -26,6 +26,10 @@ Semantic Kernel is a sdk in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-09
+
+- **Latest release:** `dotnet-1.78.0` (2026-07-07): updates the .NET package and tightens default HTTP behavior by disabling automatic redirects in HttpPlugin and WebFileDownloadPlugin clients.
 
 ### 1. How Is This Tool Useful?
 

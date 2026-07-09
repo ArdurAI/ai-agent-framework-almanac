@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-02 |
+| Last Updated | 2026-07-09 |
 
 > 9.6K+ stars; GA April 2026; merges AutoGen + Semantic Kernel; MCP + A2A native
 
@@ -26,6 +26,10 @@ Microsoft Agent Framework is a unified sdk in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-09
+
+- **Latest release:** `dotnet-1.13.0` (2026-07-03): hardens dotnet-format workflow shell handling and adds AgentSkillsSourceContext to AgentSkillsSource.GetSkillsAsync for .NET agent-skill discovery.
 
 ### 1. How Is This Tool Useful?
 
