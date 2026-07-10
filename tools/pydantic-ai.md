@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-09 |
+| Last Updated | 2026-07-10 |
 
 > 8.4K+ stars; type-safe; DI; FastAPI ergonomics; 5 output modes
 
@@ -26,6 +26,10 @@ Pydantic AI is a framework in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-10
+
+- **Latest release:** `v2.8.0` (2026-07-10; changelog dated 2026-07-09): adds `to_cli()` model passthrough for unset-model agents and bumps the bundled chat UI to 2.0.0/SDK v7; validates tool retry/timeout/concurrency parameters, recurses `JsonSchemaTransformer` through `allOf`, and fixes empty/thinking-only responses reusing prior run output.
 
 ### Daily monitoring update — 2026-07-09
 

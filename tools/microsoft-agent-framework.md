@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-09 |
+| Last Updated | 2026-07-10 |
 
 > 9.6K+ stars; GA April 2026; merges AutoGen + Semantic Kernel; MCP + A2A native
 
@@ -26,6 +26,10 @@ Microsoft Agent Framework is a unified sdk in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-10
+
+- **Latest release:** `python-1.11.0` (2026-07-10; changelog dated 2026-07-09): Python SDK adds message-injection middleware for active `AgentSession` runs, progressive MCP disclosure within `allowed_tools` boundaries, skills cache TTL/context-aware filtering, approval opt-outs for `SkillsProvider` and `FileAccessProvider` tools, custom argument parsing for inline skill scripts, hosting/Responses helper surfaces, FastAPI SSE keepalive support, and GitHub Copilot skill-directory forwarding.
 
 ### Daily monitoring update — 2026-07-09
 
