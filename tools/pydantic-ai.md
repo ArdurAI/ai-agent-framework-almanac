@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-10 |
+| Last Updated | 2026-07-12 |
 
 > 8.4K+ stars; type-safe; DI; FastAPI ergonomics; 5 output modes
 
@@ -26,6 +26,11 @@ Pydantic AI is a framework in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-12
+
+- **Latest release:** `v2.9.0` (2026-07-11; release notes dated 2026-07-10): adds the `clai /usage` cumulative-token command, GPT-5.6 models/reasoning mode for OpenAI, and `RunContext.usage_limits`; fixes Anthropic Files API beta handling for uploads, `repr()` crashes, FIPS-safe non-crypto hashes, DBOS `MCPToolset` IDs, nested `capture_run_messages`, cancellation deadlocks, and early-end handling for native/prompted/image outputs.
+- **Security warning:** Public moderate advisory `GHSA-jpr8-2v3g-wgf9` (CWE-863) affects AG-UI `UIAdapter.sanitize_messages` dangling-tool-call stripping in `pydantic-ai` / `pydantic-ai-slim` `>=2.0.0,<2.5.0` and `>=1.88.0,<1.107.1`; patched in `2.5.0` and `1.107.1`. Versions `2.5.0+` / `1.107.1+` already include the fix.
 
 ### Daily monitoring update — 2026-07-10
 
@@ -52,7 +57,7 @@ Pydantic AI is Python-only with no TypeScript or other language SDK. It currentl
 
 ### 4. How Secure Is This Tool?
 
-Pydantic AI is MIT-licensed and runs entirely in your environment; no data leaves your infrastructure except calls to your chosen LLM provider. The framework introduces no telemetry or phone-home behavior. Security depends on the tools and functions you expose to agents — there is no built-in sandboxing for tool execution, so follow standard least-privilege practices.
+Pydantic AI is MIT-licensed and runs entirely in your environment; no data leaves your infrastructure except calls to your chosen LLM provider. The framework introduces no telemetry or phone-home behavior. Security depends on the tools and functions you expose to agents — there is no built-in sandboxing for tool execution, so follow standard least-privilege practices. A public moderate advisory, `GHSA-jpr8-2v3g-wgf9` (CWE-863), affected AG-UI `UIAdapter.sanitize_messages` dangling-tool-call stripping in `pydantic-ai` / `pydantic-ai-slim` `>=2.0.0,<2.5.0` and `>=1.88.0,<1.107.1`; patched in `2.5.0` and `1.107.1`, and not exploitable when sensitive tools require approval or handlers enforce authorization.
 
 
 ### 5. Usefulness to General Public and Non-Technical Users

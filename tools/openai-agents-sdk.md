@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-10 |
+| Last Updated | 2026-07-12 |
 
 > 22.2K+ stars; lightweight; explicit handoffs; built-in tracing
 
@@ -26,6 +26,10 @@ OpenAI Agents SDK is a sdk in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-12
+
+- **Latest release:** `v0.18.2` (2026-07-11): adds GPT-5.6 request controls and hosted multi-agent beta support; fixes Daytona/Docker/Unix PTY sandbox task ownership and cleanup, realtime callback error enqueueing and monotonic playback timing, LiteLLM content-filter refusal handling, and refactors retry metadata / retry-after parsing plus sandbox rclone output collection.
 
 ### Daily monitoring update — 2026-07-10
 
