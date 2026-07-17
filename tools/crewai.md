@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-09 |
+| Last Updated | 2026-07-17 |
 
 > 49.2K+ stars; 63% Fortune 500 claim; role-based crews; MCP support
 
@@ -26,6 +26,10 @@ CrewAI is a multi-agent in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-17
+
+- **Latest release:** `1.15.3` (2026-07-16): Adds organization ID support to the PlusAPI client, execution/step interception hooks, a generic interception-hook dispatcher, and declarative flow execution through the TUI/headless path.
 
 ### Daily monitoring update — 2026-07-09
 

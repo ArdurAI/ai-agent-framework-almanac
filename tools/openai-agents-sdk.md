@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-12 |
+| Last Updated | 2026-07-17 |
 
 > 22.2K+ stars; lightweight; explicit handoffs; built-in tracing
 
@@ -26,6 +26,10 @@ OpenAI Agents SDK is a sdk in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-17
+
+- **Latest release:** `v0.18.3` (2026-07-17): Adds configurable task and turn tracing spans, tracks realtime response usage in session context, and includes memory-serialization fixes.
 
 ### Daily monitoring update — 2026-07-12
 

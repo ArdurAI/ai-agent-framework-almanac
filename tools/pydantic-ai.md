@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-12 |
+| Last Updated | 2026-07-17 |
 
 > 8.4K+ stars; type-safe; DI; FastAPI ergonomics; 5 output modes
 
@@ -26,6 +26,10 @@ Pydantic AI is a framework in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-17
+
+- **Latest release:** `v2.12.0` (2026-07-17): Adds Moonshot AI `kimi-k3` model support and emits `EnqueuedMessagesEvent` when queued messages are delivered into a run.
 
 ### Daily monitoring update — 2026-07-12
 

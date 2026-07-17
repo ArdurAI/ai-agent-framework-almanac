@@ -11,7 +11,7 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-02 |
+| Last Updated | 2026-07-17 |
 
 > Fastest-growing; Anthropic-native; MCP; skills; subagents
 
@@ -26,6 +26,10 @@ Claude Agent SDK is a sdk in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-07-17
+
+- **Latest release:** `v0.117.0` (2026-07-16): Adds API support for Anthropic “dreaming” capabilities in the Python SDK.
 
 ### 1. How Is This Tool Useful?
 
