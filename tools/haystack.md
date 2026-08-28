@@ -27,6 +27,10 @@ Haystack is a pipeline in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Latest release:** `v3.1.0` (2026-08-24): ⭐️ Highlights; 🪝CompactionHook and Built-in Compactors for Context Length Management; Experimental context compaction for Agent. Runs before LLM calls and shortens the conversation once it crosses a configured fraction of the context window. The built-in SlidingWindowCompactor first removes entire historical turns, then, if needed, individual steps of….
+
 ### Daily monitoring update — 2026-07-09
 
 - **Latest release:** `v2.31.0` (2026-07-08): begins slimming Haystack core ahead of 3.0 by migrating heavy or optional components into dedicated integration packages, reducing core dependency weight.

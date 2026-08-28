@@ -27,6 +27,11 @@ DSPy is a programming in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Latest release:** `3.3.1` (2026-08-21): DSPy 3.3.1; DSPy 3.3.1 contains many interpreter fixes and improvements. It makes PythonInterpreter; easier to install, substantially strengthens sandbox isolation and request.
+- **Adoption signal:** GitHub stars moved from 36,182 to 37,627 (+1445). Track 37,627 as the current monitoring baseline because this crossed the >500 daily-change threshold.
+
 ### 1. How Is This Tool Useful?
 
 DSPy is Stanford's framework for programming (not prompting) language model pipelines, treating LLM calls as composable, optimizable modules rather than hardcoded prompts. It provides automatic prompt optimization (via techniques like BootstrapFewShot and MIPRO) and even weight optimization, systematically improving LLM task performance. It is influential in the NLP research community with 20K+ GitHub stars.

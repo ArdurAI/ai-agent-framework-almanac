@@ -27,6 +27,10 @@ smolagents is a minimalist in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Adoption signal:** GitHub stars moved from 28,395 to 29,023 (+628). Track 29,023 as the current monitoring baseline because this crossed the >500 daily-change threshold.
+
 ### 1. How Is This Tool Useful?
 
 smolagents is Hugging Face's minimalist agent framework with a ~1,000 line core that emphasizes simplicity and code-based action. Its signature CodeAgent writes and executes Python code as its action space (rather than JSON tool calls), enabling more flexible and expressive agent behavior. It achieves strong benchmark results (44.2% on GAIA) and is designed for easy understanding and extension.

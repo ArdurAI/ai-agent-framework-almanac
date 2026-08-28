@@ -27,6 +27,11 @@ Microsoft Agent Framework is a unified sdk in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Latest release:** `python-1.16.0` (2026-08-28): [1.16.0] - 2026-08-27; **agent-framework-core**: Add configurable timeouts for waiting on the first background-agent task completion (#7908); **agent-framework-core**: Allow programmatic OpenTelemetry service metadata, resource attributes, and OTLP exporter configuration (#7703).
+- **Adoption signal:** GitHub stars moved from 12,174 to 13,162 (+988). Track 13,162 as the current monitoring baseline because this crossed the >500 daily-change threshold.
+
 ### Daily monitoring update — 2026-07-10
 
 - **Latest release:** `python-1.11.0` (2026-07-10; changelog dated 2026-07-09): Python SDK adds message-injection middleware for active `AgentSession` runs, progressive MCP disclosure within `allowed_tools` boundaries, skills cache TTL/context-aware filtering, approval opt-outs for `SkillsProvider` and `FileAccessProvider` tools, custom argument parsing for inline skill scripts, hosting/Responses helper surfaces, FastAPI SSE keepalive support, and GitHub Copilot skill-directory forwarding.

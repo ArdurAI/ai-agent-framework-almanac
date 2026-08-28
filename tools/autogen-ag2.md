@@ -11,9 +11,9 @@
 | Tier | A |
 | Region | Global |
 | First Triaged | 2026-07-02 |
-| Last Updated | 2026-07-02 |
+| Last Updated | 2026-08-28 |
 
-> 43.1K+ stars; AutoGen v0.7 = research; AG2 = community fork; MAF = successor
+> 60.7K+ stars; AutoGen v0.7 = research; AG2 = community fork; MAF = successor
 
 ---
 
@@ -26,6 +26,10 @@ AutoGen / AG2 is a multi-agent in the agent frameworks category.
 ---
 
 ## Deep Analysis
+
+### Daily monitoring update — 2026-08-28
+
+- **Adoption signal:** GitHub stars moved from 59,785 to 60,658 (+873). Track 60,658 as the current monitoring baseline because this crossed the >500 daily-change threshold.
 
 ### 1. How Is This Tool Useful?
 

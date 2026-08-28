@@ -27,6 +27,12 @@ CrewAI is a multi-agent in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Latest release:** `1.15.18` (2026-08-27): Features; Promote conversational flows to stable; Record a created deployment with the given UUID.
+- **Adoption signal:** GitHub stars moved from 55,676 to 57,690 (+2014). Track 57,690 as the current monitoring baseline because this crossed the >500 daily-change threshold.
+- **Community health:** Open issues moved from 657 to 775 (+118). This is a material backlog increase; watch maintainer triage capacity, support load, and regression risk.
+
 ### Daily monitoring update — 2026-07-17
 
 - **Latest release:** `1.15.3` (2026-07-16): Adds organization ID support to the PlusAPI client, execution/step interception hooks, a generic interception-hook dispatcher, and declarative flow execution through the TUI/headless path.

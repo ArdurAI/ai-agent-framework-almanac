@@ -27,6 +27,10 @@ Letta is a stateful agent in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Adoption signal:** GitHub stars moved from 23,829 to 24,470 (+641). Track 24,470 as the current monitoring baseline because this crossed the >500 daily-change threshold.
+
 ### 1. How Is This Tool Useful?
 
 Letta (formerly MemGPT) is an open-source framework for building stateful, memory-rich agents that maintain long-term memory and state across sessions. It implements a memory architecture inspired by operating system design (main context, external archival, recall memory) enabling agents to remember and reason over extended conversations. With 22K+ GitHub stars, it is a leading solution for agents that need persistent memory.

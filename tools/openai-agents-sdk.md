@@ -27,6 +27,11 @@ OpenAI Agents SDK is a sdk in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Latest release:** `v0.22.0` (2026-08-19): Key Changes; Highlights:; Redacts terminal function-tool output rejected by agent output guardrails from replayable and persisted SDK state.
+- **Adoption signal:** GitHub stars moved from 27,961 to 29,019 (+1058). Track 29,019 as the current monitoring baseline because this crossed the >500 daily-change threshold.
+
 ### Daily monitoring update — 2026-07-17
 
 - **Latest release:** `v0.18.3` (2026-07-17): Adds configurable task and turn tracing spans, tracks realtime response usage in session context, and includes memory-serialization fixes.

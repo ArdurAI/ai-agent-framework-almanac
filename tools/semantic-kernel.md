@@ -27,6 +27,10 @@ Semantic Kernel is a sdk in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Latest release:** `dotnet-1.80.0` (2026-08-18): 5e1f1fb87d9a38ed44683228dda2434a9b2f0ef9 .NET: Bump package version to 1.80.0 (#14301); 1b7b020cd0a4e57d8d5d1cf2d515d352520ff424 Update OpenAPI HTTP client defaults (#14293); c1afc8639944e0e49c42aa796308ba2d0440f0d3 .NET: Bump Testcontainers packages (#14294).
+
 ### Daily monitoring update — 2026-07-09
 
 - **Latest release:** `dotnet-1.78.0` (2026-07-07): updates the .NET package and tightens default HTTP behavior by disabling automatic redirects in HttpPlugin and WebFileDownloadPlugin clients.

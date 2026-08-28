@@ -27,6 +27,12 @@ Pydantic AI is a framework in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Latest release:** `v2.35.3` (2026-08-28): 🐛 Bug Fixes; Route Heroku GLM models through zai_model_profile by @LHMQ878 in; Scope safe_download cookies to original hostnames by @Diwak4r in.
+- **Adoption signal:** GitHub stars moved from 18,607 to 19,541 (+934). Track 19,541 as the current monitoring baseline because this crossed the >500 daily-change threshold.
+- **Community health:** Open issues moved from 491 to 749 (+258). This is a material backlog increase; watch maintainer triage capacity, support load, and regression risk.
+
 ### Daily monitoring update — 2026-07-17
 
 - **Latest release:** `v2.12.0` (2026-07-17): Adds Moonshot AI `kimi-k3` model support and emits `EnqueuedMessagesEvent` when queued messages are delivered into a run.

@@ -27,6 +27,11 @@ Claude Agent SDK is a sdk in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Latest release:** `v1.2.0` (2026-08-27): 1.2.0 (2026-08-27); Features; **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins (9df4565).
+- **Community health:** Open issues moved from 346 to 148 (-198). This is a material backlog reduction; it is a positive triage/maintenance signal, but verify whether it came from closures, migrations, or issue pruning.
+
 ### Daily monitoring update — 2026-07-17
 
 - **Latest release:** `v0.117.0` (2026-07-16): Adds API support for Anthropic “dreaming” capabilities in the Python SDK.

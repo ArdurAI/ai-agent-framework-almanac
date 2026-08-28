@@ -27,6 +27,12 @@ LangGraph is a orchestration in the agent frameworks category.
 
 ## Deep Analysis
 
+### Daily monitoring update — 2026-08-28
+
+- **Latest release:** `sdk==0.4.4` (2026-08-27): Changes since sdk==0.4.3; release(sdk-py): 0.4.4 (#8738); Merge commit from fork.
+- **Adoption signal:** GitHub stars moved from 37,488 to 40,572 (+3084). Track 40,572 as the current monitoring baseline because this crossed the >500 daily-change threshold.
+- **Community health:** Open issues moved from 621 to 722 (+101). This is a material backlog increase; watch maintainer triage capacity, support load, and regression risk.
+
 ### Daily monitoring update — 2026-07-10
 
 - **Latest release:** `1.2.9` (2026-07-10): patch release fixing `updateState` metadata/counters for the delta channel; otherwise primarily release plumbing.
